@@ -470,6 +470,11 @@ footer p {
   opacity:1;
 }
 
+.about-pic {
+  border: 2px solid black; /* Adjust the width (2px) as needed */
+  border-radius: 5px; /* Optional: Adds slight rounding to the corners */
+}
+
 
 
 
